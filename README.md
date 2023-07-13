@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on HMR(human mesh recovery)
+- 👯 I’m looking to collaborate on anything related to deep learning
+- 📫 How to reach me: alexwdyang@gmail.com
+- 😄 Pronouns: I'm an emale 🗿
+- ⚡ Fun fact: check this out: https://www.youtube.com/watch?v=prYG0SuNU_c
+
 <!--
 **imabackstabber/imabackstabber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
